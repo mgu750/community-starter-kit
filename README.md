@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This probot app welcomes new users and provides comments for a helpful and friendly user experience.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This probot app improves user experience.
 
 ## Getting started
 
