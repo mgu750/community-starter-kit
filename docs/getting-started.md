@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to GitHub!
+Hello I am the CatBot!
+Welcome to this project!
